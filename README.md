@@ -15,5 +15,5 @@ This script automates detailed service scanning with Nmap. Using an Nmap scan re
 
 ## 🚨 **Requirements**
 
-    Superuser privileges (sudo) to run Nmap.
-    A valid input file with Nmap scan results in -oG format.
+    👑 Superuser privileges (sudo) to run Nmap.
+    📄 A valid input file with Nmap scan results in -oG format.
